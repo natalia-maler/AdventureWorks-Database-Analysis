@@ -22,7 +22,7 @@ Cel projektu
 
 Projekt pokazuje, w jaki sposób relacyjna baza danych może wspierać analizę procesów biznesowych przedsiębiorstwa oraz umożliwiać pozyskiwanie informacji niezbędnych do podejmowania decyzji na podstawie danych.
 
-Szczegółowa dokumentacja projektu została opracowana w pliku PDF pt. "Analityczny model ERP_WMS oparty na bazie AdventureWorks", zawierającym opis struktury bazy danych, analizowanych modułów oraz wszystkich wykonanych zapytań SQL wraz z ich interpretacją.
+Szczegółowa dokumentacja projektu została opracowana w pliku PDF pt.["Analityczny model ERP_WMS oparty na bazie AdventureWorks"]([https://github.com/natalia-maler/Wide-World-Importers-Analysis/blob/main/WideWorldImporters_SQL.pdf](https://github.com/natalia-maler/AdventureWorks-Database-Analysis/blob/main/Analityczny%20model%20ERP_WMS%20oparty%20na%20bazie%20AdventureWorks.pdf)), zawierającym opis struktury bazy danych, analizowanych modułów oraz wszystkich wykonanych zapytań SQL wraz z ich interpretacją.
 
 ### Dashboard Power BI
 Projekt został rozszerzony o interaktywny dashboard wykonany w Microsoft Power BI, którego celem jest wizualizacja i analiza danych zgromadzonych w bazie AdventureWorks. Dashboard przedstawia pełny proces funkcjonowania przedsiębiorstwa produkcyjno-handlowego, od zakupu komponentów, poprzez magazynowanie i produkcję, aż do sprzedaży produktów oraz analizy promocji.
